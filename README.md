@@ -36,3 +36,14 @@ This project was created to practice backend web development concepts such as au
 1. Install XAMPP
 2. Start Apache and MySQL
 3. Place project folder inside:
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Register Page
+![Register](screenshots/register.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
